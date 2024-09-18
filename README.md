@@ -5,8 +5,6 @@ The goal of this project is to develop a comprehensive data analytic platform us
 
 Dataset
 The dataset comprises detailed records of council meetings and votes, including:
-
-
 •	Meeting ID: Unique identifier for each council meeting.
 •	Vote ID: Unique identifier for each vote within a meeting.
 •	Councilor ID: Identifier for the councilor casting the vote.
