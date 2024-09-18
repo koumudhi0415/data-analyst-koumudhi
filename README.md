@@ -8,11 +8,17 @@ The goal of this project is to develop a comprehensive data analytic platform us
 The dataset comprises detailed records of council meetings and votes, including:
 
 •	Meeting ID: Unique identifier for each council meeting.
+
 •	Vote ID: Unique identifier for each vote within a meeting.
+
 •	Councilor ID: Identifier for the councilor casting the vote.
+
 •	Vote Date: Date on which the vote was cast.
+
 •	Agenda Item: Description of the item or issue being voted on.
+
 •	Vote Result: Outcome of the vote (e.g., Yes, No, Abstain).
+
 **Methodology**
 **1.	****Data Collection and Preparation:**
 o	Steps: Utilized AWS Glue to create a crawler that detects and extracts the schema of the dataset. Configured Glue to catalog this metadata in the AWS Glue Data Catalog, ensuring organized and accessible data management.
