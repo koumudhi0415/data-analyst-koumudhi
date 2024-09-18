@@ -2,6 +2,7 @@ Project Title
 Implementing Data Analytic Platform for Council Voting Records
 Objective
 The goal of this project is to develop a comprehensive data analytic platform using AWS to manage, analyze, and visualize the Council Voting Records dataset from the City of Vancouver. This platform will enable efficient data handling and provide valuable insights into council voting patterns, facilitating informed decision-making and transparency.
+
 Dataset
 The dataset comprises detailed records of council meetings and votes, including:
 •	Meeting ID: Unique identifier for each council meeting.
